@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python.
 
  <div>
-  <a href="https://github.com/DiegoIves">
+  <a href="https://github.com/DiegoIves/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoIves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoIves&layout=compact&langs_count=3&theme=tokyonight"/>
 </div>
