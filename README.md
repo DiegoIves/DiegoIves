@@ -3,12 +3,18 @@
 - 🔭 I’m currently working on selenium basic web scraping and python chatbots development.
 - 🌱 I’m currently learning python.
 
+##
+
  <div>
   <a href="https://github.com/DiegoIves/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoIves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoIves&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
+ ##
+![gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47azqkvlppdowyhf1u66hlly79b8nzbira1h192aqm&rid=giphy.gif&ct=g)
+ 
+ ##
 <div style="display: inline_block"><br>
  <img align="center" alt="Vba" height="30" width="40" src="https://github.com/DiegoIves/SeviSnacks/blob/master/SeviSnack/file_type_vba_icon_130097.svg">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,8 +26,7 @@
  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
  <img align="center" alt="MySql" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- 
- 
+  
   ##
  <div> 
   <a href="https://www.youtube.com/channel/UCmU1F7vQyY7weR2M-3CihLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
