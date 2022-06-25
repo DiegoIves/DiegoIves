@@ -12,7 +12,7 @@
 </div>
 
  ##
-![gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47azqkvlppdowyhf1u66hlly79b8nzbira1h192aqm&rid=giphy.gif&ct=g)
+![gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
  
  ##
 <div style="display: inline_block"><br>
