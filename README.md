@@ -17,7 +17,7 @@ Obrigado pela visita. ;)
 
 ##
 
-<img align="center" alt="Brazil" height="30" width="40" src="https://cdn-icons.flaticon.com/png/128/4060/premium/4060239.png?token=exp=1658135529~hmac=5f6e923bf9472c3ec1a3a869a6408991"> <br>
+<img align="center" alt="Usa" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/555/555526.png"> <br>
 # Hello There, Diego Ives here. 😎👨🏾‍💻<br>Welcome.
 
 ### About Me
