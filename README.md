@@ -9,28 +9,33 @@
 <div align="center">
 
 ### Sobre Mim
-Apaixonado por programação, tecnologia e com facilidade em aprender coisas novas, conheci, em 2016, o VBA através das macros. Essa experiência foi o grande divisor de águas na minha carreira, pois, foi onde percebi a facilidade com lógica e aprendizado pela internet e ao aplicar esses conhecimentos na prática, diversos problemas eram resolvidos e mais valor era gerado. Nesse processo, notei o quanto é importante otimizarmos o tempo nas atividades diárias, então, meu conhecimento é amplo em automatizar tarefas (RPA - Robotic Proccess Automation) não só em VBA, mas em Python também. 
-Além das automações, aprendi sobre a importância de uma análise bem estruturada e quanto faz a diferença nas tomadas de decisões. Para construir essa análises, utilizo o Power BI, Excel, Microstrategy e SCI Cognos.
-No momento estou me aventurando no mundo do desenvolvimento mobile, através do framework Flutter e Machine Learning, com o Python.
+🌟 Sobre Mim:
+Olá, sou um profissional apaixonado por desafios e com uma sólida experiência nas áreas de logística, negócios e projetos. Minha jornada profissional é marcada por conquistas significativas em liderança, análise estratégica e implementação de projetos inovadores.
 
-Obrigado pela visita. ;)
+🔍 Experiência Profissional:
 
+🔧 Analista de Projetos:
+Como analista de projetos, minha expertise em análises logísticas, simulação de cenários ideais e desenvolvimento de ferramentas de automação destacam-me como um profissional inovador. Minha experiência inclui configurações WMS Manhattan Active e a construção de relatórios no Power BI e IBM Cognos Analytics.
+
+📈 Analista de Negócios:
+Na função de analista de negócios, contribuí significativamente para a implementação de projetos de melhoria contínua. Trabalhei com o WMS ManhattanSCPP, desenvolvi ferramentas de automação utilizando VBA e Python, e criei dashboards poderosos no Power BI e IBM Cognos Analytics para aprimorar a eficiência operacional.
+
+👨‍💼 Líder de Logística:
+Como líder de operações, conduzi equipes com foco na excelência operacional. Minhas habilidades incluem gestão de equipe, aplicação de feedbacks construtivos, acompanhamento meticuloso das atividades e uma abordagem de liderança humanizada com resultados tangíveis.
+
+🚀 Principais Habilidades:
+
+Análise Estratégica
+Configurações WMS (ManhattanSCPP, Manhattan Active)
+Desenvolvimento de Ferramentas (VBA, Python, Flutter)
+Construção de Dashboards (Power BI, IBM Cognos Analytics)
+Implementação de Projetos
+Gestão de Equipes
+
+📬 Contato:
+Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou networking. Estou ansioso para contribuir com meu conhecimento e entusiasmo para o sucesso do seu projeto!
 ##
 
-<img align="center" alt="Usa" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/555/555526.png"> <br>
-# Hello There, Diego Ives here. 😎👨🏾‍💻<br>Welcome.
-
-### About Me
-Passionate about programming, technology and easy to learn new things, in 2016 i have the first conctact with VBA through the Macros. This experience was the great watershed in my career, because it was where I realized the ease with logic and learning on the internet and when applying this knowledge in practice, several problems were solved and more value was generated. In this process, I noticed how important it is to optimize time in daily activities, so my knowledge is extensive in automating tasks (RPA - Robotic Proccess Automation) not only in VBA, but in Python as well.
-In addition to automations, I learned about the importance of a well-structured analysis and how much it makes a difference in decision making. To build these analyses, I use Power BI, Excel, Microstrategy and SCI Cognos.
-At the moment I'm venturing into the world of mobile development, through Flutter framework and Machine Learning, with Python.
-
-Thanks for the visit. ;)
-
-
-</div>
-
-##
 
  <div>
   <a href="https://github.com/DiegoIves/">
