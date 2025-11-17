@@ -36,7 +36,9 @@ Busco sempre formas práticas de usar Python para simplificar rotinas, apoiar de
  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
  <img align="center" alt="MySql" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
+ <img align="center" alt="SQL Server" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+ <img align="center" alt="Cloud Run" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg">
+ <img align="center" alt="Docker" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   ##
  <div> 
   <a href="https://www.youtube.com/channel/UCmU1F7vQyY7weR2M-3CihLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
