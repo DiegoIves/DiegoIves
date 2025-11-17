@@ -9,31 +9,13 @@
 <div align="center">
 
 ### Sobre Mim
-🌟 Sobre Mim:
-Olá, sou um profissional apaixonado por desafios e com uma sólida experiência nas áreas de logística, negócios e projetos. Minha jornada profissional é marcada por conquistas significativas em liderança, análise estratégica e implementação de projetos inovadores.
+Olá! Eu sou o Diego Ives, desenvolvedor Python focado em criar soluções claras, práticas e confiáveis para resolver problemas reais — especialmente na logística e no planejamento de demanda.
 
-🔍 Experiência Profissional:
+A maior parte dos meus projetos envolve automação (RPA), análise de dados, integração com APIs e processos de dados com SQL. Gosto de transformar tarefas manuais e repetitivas em automações inteligentes, eficientes e fáceis de manter.
 
-🔧 Analista de Projetos:
-Como analista de projetos, minha expertise em análises logísticas, simulação de cenários ideais e desenvolvimento de ferramentas de automação destacam-me como um profissional inovador. Minha experiência inclui configurações WMS Manhattan Active e a construção de relatórios no Power BI e IBM Cognos Analytics.
+Desenvolvo soluções em Python que processam dados estruturados e não estruturados, interagem com APIs REST, trabalham com diversas estruturas em Python e se conectam a bancos de dados para transformar dados brutos em informações úteis para tomada de decisão. Também crio ferramentas que integram agentes e suportam ecossistemas maiores de automação.
 
-📈 Analista de Negócios:
-Na função de analista de negócios, contribuí significativamente para a implementação de projetos de melhoria contínua. Trabalhei com o WMS ManhattanSCPP, desenvolvi ferramentas de automação utilizando VBA e Python, e criei dashboards poderosos no Power BI e IBM Cognos Analytics para aprimorar a eficiência operacional.
-
-👨‍💼 Líder de Logística:
-Como líder de operações, conduzi equipes com foco na excelência operacional. Minhas habilidades incluem gestão de equipe, aplicação de feedbacks construtivos, acompanhamento meticuloso das atividades e uma abordagem de liderança humanizada com resultados tangíveis.
-
-🚀 Principais Habilidades:
-
-Análise Estratégica
-Configurações WMS (ManhattanSCPP, Manhattan Active)
-Desenvolvimento de Ferramentas (VBA, Python, Flutter)
-Construção de Dashboards (Power BI, IBM Cognos Analytics)
-Implementação de Projetos
-Gestão de Equipes
-
-📬 Contato:
-Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou networking. Estou ansioso para contribuir com meu conhecimento e entusiasmo para o sucesso do seu projeto!
+Busco sempre formas práticas de usar Python para simplificar rotinas, apoiar decisões e tornar processos mais ágeis e eficientes.
 ##
 
 
